@@ -1,0 +1,3 @@
+student name : Nicole Schilder 
+student number : 636136
+student class : 1INFSC
